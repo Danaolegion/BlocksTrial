@@ -1,0 +1,38 @@
+# Unreal Engine standard ignored folders and files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.VC.db
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.userprefs
+*.log
+*.tlog
+*.pdb
+*.ipch
+*.obj
+*.pch
+*.exe
+*.dll
+*.app
+*.so
+*.dylib
+
+# Backup and temporary files
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Crash reporter files
+CrashReportClient/
+
+# Rider / JetBrains
+.idea/
+*.iml
