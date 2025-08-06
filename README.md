@@ -17,11 +17,12 @@ Link->[![TPSCHar](https://img.youtube.com/vi/IaAXnvszNGQ/maxresdefault.jpg)](htt
 Strike Hidden – A stealth-based mechanic where players must locate and strike hidden targets within a game environment.
 Link->[![StrikeHidden](https://img.youtube.com/vi/7vXkBxIXB1s/maxresdefault.jpg)](https://www.youtube.com/embed/7vXkBxIXB1s?si=2UsmwWTrL0mJkiY5)
 
-That Level Again-Every room has one goal: escape.And one thing in common: that button.
+That Button Again-Every room has one goal: escape.And one thing in common: that button.
 In this looping puzzle-platformer, each room contains a single button, but its effect changes every time. Press it to spawn objects, activate lasers, move platforms, or trigger something totally unexpected.
 Solve the puzzle using whatever chaos the button brings.
 It’s the same button. Again and again.
-But the puzzle? Never the same.
+But the puzzle? Never the same.</br>
+Link->[![Tha tButton Again](https://img.youtube.com/vi/t_i-dRZQtpI/default.jpg)](https://www.youtube.com/embed/t_i-dRZQtpI?si=DeQ0-orIr6GVo5wz)
 
 These projects demonstrate my ability to implement diverse gameplay systems and my growing expertise in UE5.
 
